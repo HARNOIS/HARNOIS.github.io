@@ -88,10 +88,18 @@ export const heroData: Hero = {
       Icon: ArrowDownTrayIcon,
     },
     {
+      href: '/assets/scop.pdf',
+      text: 'Test',
+      primary: true,
+      Icon: ArrowDownTrayIcon,
+    },
+    /*
+    {
       href: `#${SectionId.Contact}`,
       text: 'Contact',
       primary: false,
     },
+    */
   ],
 };
 
