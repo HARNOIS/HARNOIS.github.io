@@ -76,7 +76,7 @@ export const heroData: Hero = {
         Please ignore almost everything here. I'm still learning how this works. 
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        Currently this is being used as E-Portfolio for projects at Moreland. <strong className="text-stone-100"> Click the links below for the associated Moreland pages. CURRENT UPDATE: RESUME TEST 4 ADDED</strong>
+        Currently this is being used as E-Portfolio for projects at Moreland. <strong className="text-stone-100"> Click the links below for the associated Moreland pages. CURRENT UPDATE: 5 ADDED</strong>
       </p>
     </>
   ),
